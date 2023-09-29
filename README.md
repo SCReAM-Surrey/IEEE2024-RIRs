@@ -5,7 +5,7 @@ Room Impulse Responses created with the methods proposed and discussed in the jo
 Refer to the figures and tables in the paper for room geometries.
 Reflection coefficients are also reported in the paper, except for the room 'hallway 3', which has reflection = 0.7.
 
-Source and receiver positions are as follows.
+Source and receiver positions are as follows.\
 'hallway':\
  $\hspace{5mm}$       source = [1.2, 5.4, 1.2]\
  $\hspace{5mm}$       receiver = [0.7, 0.6, 0.7]\

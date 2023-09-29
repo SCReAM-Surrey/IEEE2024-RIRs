@@ -6,7 +6,7 @@ Refer to the figures and tables in the paper for room geometries.
 Reflection coefficients are also reported in the paper, except for the room 'hallway 3', which has reflection = 0.7.
 
 Source and receiver positions are as follows.\
-'hallway':\
+'hallway 1':\
  $\hspace{5mm}$       source = [1.2, 5.4, 1.2]\
  $\hspace{5mm}$       receiver = [0.7, 0.6, 0.7]\
 'hallway 2':\
@@ -15,13 +15,13 @@ Source and receiver positions are as follows.\
 'hallway 3':\
 $\hspace{5mm}$        source = [1.2, 2.4, 1.2]\
 $\hspace{5mm}$        receiver = [0.7, 0.6, 0.7]\
-'nonconvex':\
+'nonconvex 1':\
 $\hspace{5mm}$        source = [0.5, 4.5, 1.0]\
 $\hspace{5mm}$        receiver = [3.5, 4.3, 1.2]\
 'nonconvex 2':\
 $\hspace{5mm}$        source = [2.5, 1.5, 1.0]\
 $\hspace{5mm}$        receiver = [3.5, 3.3, 1.2]\
-'uneven':\
+'uneven 1':\
 $\hspace{5mm}$        source = [1.2, 1.4, 1.0]\
 $\hspace{5mm}$        receiver = [0.7, 1.6, 1.7]\
 'uneven 2':\

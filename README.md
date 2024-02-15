@@ -1,6 +1,6 @@
 # SCReAM | Audio samples
 
-Room Impulse Responses created with the methods proposed and discussed in the journal paper "Enhanced control of scattering and early reflections in Acoustic Rendering Networks".
+Room Impulse Responses created with the methods proposed and discussed in the journal paper "Room Acoustic Rendering Networks with Control of Scattering and Early Reflections".
 
 Refer to the figures and tables in the paper for room geometries.
 Reflection coefficients are also reported in the paper, except for the room 'hallway 3', which has reflection = 0.7.
